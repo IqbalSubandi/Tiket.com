@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Terakhir diedit_icon icon-chevron up grey</name>
+   <tag></tag>
+   <elementGuidId>12b01da2-81fb-4cb3-bb62-a2e2028178c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/div[2]/div/div[2]/div[3]/div[3]/fieldset/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon icon-chevron up grey  </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout inner&quot;]/div[@class=&quot;row main&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;inventory-management landing&quot;]/div[@class=&quot;mgmt-inventory-list&quot;]/div[@class=&quot;activity-container&quot;]/div[@class=&quot;list-container&quot;]/div[@class=&quot;listing-page-options&quot;]/div[@class=&quot;form-control form-select sort-select open is-filled&quot;]/fieldset[1]/div[@class=&quot;content&quot;]/div[@class=&quot;icon icon-chevron up grey&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div[2]/div/div[2]/div[3]/div[3]/fieldset/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/fieldset/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
